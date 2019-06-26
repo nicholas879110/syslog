@@ -11,4 +11,7 @@ import java.lang.annotation.*;
 @Inherited
 public @interface LogService {
     String biz() default "";
+
+
+    ///
 }
